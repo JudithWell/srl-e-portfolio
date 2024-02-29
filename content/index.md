@@ -1,6 +1,4 @@
 ---
-title: Welcome to Quartz
+title: Hier entsteht das E-Portfolio zum Selbstregulierten Lernen
 ---
-
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+Hier gibt es mehr zur Motivation, [[Motivation für SRL|warum selbstgesteuert lernen]]?
