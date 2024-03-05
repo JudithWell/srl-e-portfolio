@@ -17,6 +17,7 @@ Die drei Perspektiven Stellen einen sehr ähnlichen Ablauf dar, der sich meist i
 | I   | 1 Forethought Phase                          | 1 Task Definition<br>2 Goal Setting | 1 Planung des Lernprozesses      |
 | II  | 2 Performance / Volitional <br>Control Phase | 3 Enactment                         | 2 Durchführung des Lernprozesses |
 | III | 3 Self-Reflection Phase                      | 4 Adaptation                        | 3 Bewertung des Lernprozesses    |
+
 **Tabelle:** Phasen des Selbstgesteuerten Lernens aus der sozial-kognitiven Perspektive, der Perspektive der Informationsverarbeitung und nach dem Integrativen Rahmenmodell nach xx und yy.
 
 Die Modelle vereint eine Dreigliedrigkeit in eine Phase bzw. Phasen vor der eigentlichen Lernaktivität, die Durchführung der Lernaktivität und eine Phase nach der Lernaktivität. 
