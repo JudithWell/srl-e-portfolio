@@ -9,7 +9,7 @@ tags:
 # Gute Gründe für Selbstgesteuertes Lernen
 Selbstgesteuertes Lernen unterscheidet sich stark von traditionellem Unterricht. Braucht es das überhaupt?
 ## Lernen neu denken - New Learning 
-Im "Hagener Manifest für New Learning" stellte die FernUniversität Hagen 2021 Forderungen, die Lernen - analog zur "New Work" - zeitgemäß neu denken sollen. Dabei liegt der Fokus einerseits auf den Lernenden, andererseits auf der Bewältigung der Herausforderungen von Globalisierung und Digitalisierung. Dadurch soll die Selbstbestimmtheit der Lernenden gefördert werden und Inklusion sowie Chancengerechtigkeit gefördert werden. 
+Im "Hagener Manifest für New Learning" stellte die FernUniversität Hagen 2021 Forderungen, die Lernen - analog zur "New Work" - zeitgemäß neu denken sollen. Dabei liegt der Fokus einerseits auf den Lernenden, andererseits auf der Bewältigung der Herausforderungen von Globalisierung und Digitalisierung. Dadurch soll die Selbstbestimmtheit der Lernenden, Inklusion sowie Chancengerechtigkeit gefördert werden. 
 Das Selbstgesteuerte Lernen ist eine Möglichkeit New Learning im Klassenzimmer umzusetzen.
 
 ---
@@ -21,3 +21,5 @@ xes Phänomen, dass sowohl Voraussetzung, Methode und Ziel des Lernens ist[^Stau
 [^Bannach2002]: Bannach, Michael (2002): Selbstbestimmtes Lernen, Freie Arbeit an selbstgewählten Themen, Grundlagen der Schulpädagogik Band 41, Bennack, Jürgen; Kaiser, Astrid; Winkel, Rainer (Hrsg.), Baltmannsweiler: Schneider Verlag Hohengehren
 
 [^Stauche2004]: Stauche, Helmut; Sachse, Ingeburg (2004): Selbstgesteuertes Lernen als mögliche Alternative zu traditionellen Bildungswegen?
+
+
