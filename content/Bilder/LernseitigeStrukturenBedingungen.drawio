@@ -1,0 +1,40 @@
+<mxfile host="app.diagrams.net" modified="2024-03-10T13:18:34.798Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="11-fM73Wrp8LdLqD_Tmt" version="24.0.4" type="device">
+  <diagram name="Seite-1" id="FQ6QpRQtPz-XUUPQGxFC">
+    <mxGraphModel dx="1185" dy="651" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="d942BCbm9JuPQkC1hKeL-1" value="&lt;b&gt;kognitiv&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;rotation=-90;fontSize=16;sketch=1;curveFitting=1;jiggle=2;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="70" y="180" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="d942BCbm9JuPQkC1hKeL-2" value="&lt;b&gt;motivational&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;rotation=-90;fontSize=16;sketch=1;curveFitting=1;jiggle=2;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="70" y="330" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="d942BCbm9JuPQkC1hKeL-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;sketch=1;curveFitting=1;jiggle=2;labelBackgroundColor=none;fontColor=default;" edge="1" parent="1" source="d942BCbm9JuPQkC1hKeL-3" target="d942BCbm9JuPQkC1hKeL-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="d942BCbm9JuPQkC1hKeL-3" value="&lt;b&gt;prozedural&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;rotation=0;fontSize=16;sketch=1;curveFitting=1;jiggle=2;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="339" y="90" width="181" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="d942BCbm9JuPQkC1hKeL-4" value="&lt;b&gt;strukturell&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;rotation=0;fontSize=16;sketch=1;curveFitting=1;jiggle=2;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="160" y="90" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="d942BCbm9JuPQkC1hKeL-6" value="&lt;b&gt;Lernstrategien &lt;/b&gt;in &lt;br&gt;Bezug auf Informations-verarbeitung,&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;Res-sourcen und&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Kontrolle&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;sketch=1;curveFitting=1;jiggle=2;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="340" y="120" width="180" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="d942BCbm9JuPQkC1hKeL-9" value="Selbstwirksamkeits-überzeugungen,&lt;br style=&quot;font-size: 16px;&quot;&gt;Bedürfnisse, Interesse und Ziele" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;sketch=1;curveFitting=1;jiggle=2;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="160" y="270" width="180" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="d942BCbm9JuPQkC1hKeL-10" value="Strategien zur Bewältigung der Begleiterscheinungen der Lernprozesse&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;sketch=1;curveFitting=1;jiggle=2;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="340" y="270" width="180" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="d942BCbm9JuPQkC1hKeL-11" value="Inhaltliches &lt;b&gt;Vorwissen&lt;/b&gt;, &lt;b&gt;Wissen &lt;/b&gt;über die eigene Kognition, die Aufgabe und die Strategie" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;sketch=1;curveFitting=1;jiggle=2;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="160" y="120" width="180" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="d942BCbm9JuPQkC1hKeL-13" value="" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="130" y="90" width="30" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

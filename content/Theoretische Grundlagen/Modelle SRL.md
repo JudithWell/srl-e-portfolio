@@ -27,16 +27,17 @@ Zur Vorbereitung des Lernprozesses erfolgt eine Planung der Aktivität durch die
 Anschließend wird der eigentliche Lern- bzw. Erarbeitungsprozess durchgeführt. Hierbei regulieren die Lernenden insbesondere auch ihre eigenen Motivation und Volition.
 
 Nach (erfolgreichem) Abschluss des Lernens folgt eine Reflektionsphase als wichtiger Bestandteil des Selbstgesteuerten Lernens. Die Lernenden bewerten ihren Lernprozess und ihre eigene Performanz und können ggf. Anpassungen vornehmen oder Erkenntnisse darüber, welches Vorgehen für sie selbst gut funktioniert, fürs nächste Mal erhalten.
-## Modell zu den Einflussfaktoren auf Selbstgesteuertes Lernen nach Zimmermann
-
-**Prüfen! und ggf. Ergänzen!**
-
-Barry J Zimmermann untersuchte Einflussfaktoren auf den Erfolg selbstgesteuerten Lernens. 
-Er betrachtete die Wechselwirkung zwischen den drei Domänen *Person*, *Verhalten* und *Umgebung*. 
-Er unterschied zwischen *personeninterner Selbstregulation*, *verhaltensbezogener Selbstregulation* und *umweltbezogener Selbstregulation*.
+## Selbstgesteuertes Lernen nach Zimmermann
+Barry J Zimmermann beschrieb aus sozial-kognitiver Perspektive nicht nur die oben genannten Phasen sondern auch selbstgesteuertes Lernen als Interaktion zwischen den drei Faktoren der *Person*, des *Verhaltens* und der *Umgebung*. 
+Die Lernenden passen laut Zimmermann ihr Lernverhalten und den -aufwand zyklisch an, je nach Feedback vorangegangener Leistung. Er unterschied zwischen *personeninterner Selbstregulation*, *verhaltensbezogener Selbstregulation* und *umweltbezogener Selbstregulation*.
 ## Drei-Schichten-Modell nach Boekarts
-**Ergänzen!**
-
 Das Drei-Schichten-Modell nach Boekarts unterscheidet drei Bereiche der Regulation zum Selbstregulierten Lernen: *Regulation des Selbst*, *Regulation der Lernprozesses* und die *Regulation des Verarbeitungsmodus'*.
 ![[Schichtenmodell_Boekarts_Kramer.png]]
 **Abbildung:** Schichtenmodell zum Selbstregulierten Lernen nach Boekarts. Abbildung aus Skript "Psychologie für Lehramt 1" von K. Kramer.
+
+## Dimensionen des Selbstgesteuerten Lernens nach Bönsch
+Manfred Bönsch sieht drei Dimensionen des Selbstgesteuerten Lernens: Die Herausforderung der *Selbstkompetenz der Lernenden*, die [[Alternative Lernarrangements nach Bönsch|alternativen Lernarrangements]] und die *Kompetenzorientierung*.
+Die Selbstkompetenz wird in drei Ausprägungen weiter unterteilt:
+1. Selbstorganisation: Den Tag organisieren, Ziele setzen und Zeitmanagement.
+2. Selbststeuerung: Selbstdisziplin entwickeln, Planungsfähigkeit, Eingehen und Einhalten von Verabredungen.
+3. Selbstverantwortung: Etappen überprüfen, Handlungsorientierung, sich gerecht werden.
