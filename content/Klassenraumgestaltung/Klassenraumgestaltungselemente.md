@@ -1,0 +1,12 @@
+# Klassenraumgestaltung: Was wir diese Woche gelernt haben
+Zur Sicherung der Lerninhalte selbstgesteuerter Lernprozesse kommen teils Präsentationen zum Einsatz oder die Ergebnisse der Arbeit werden in anderer Weise festgehalten. Multimediapräsentationen sind heutzutage häufig das Mittel der Wahl für die Vorstellung und Vermittlung solcher Arbeitsergebnisse. Daneben haben Plakate den Vorteil, dass sie im Klassenzimmer aufgehangen werden können. Damit sind die Inhalte den Lernenden präsenter und auch im Laufe der Woche noch leicht verfügbar gemacht: Ein Plakat zum Erweitern und Kürzen von Brüchen beispielsweise kann den Schüler:innen bei der Bearbeitung von Übungs- oder Wochenplanaufgaben helfen.
+Die Idee ist nun diesen Effekt von Plakaten für alle Fächer, für die es Sinn ergibt auszuweiten und einen gesonderten Platz im Klassenzimmer für wöchentliche Plakate aus allen Fächern zu schaffen. Werden solche Plakate wöchentlich erstellt, müssen sie vermutlich nicht allzuviele Informationen beinhalten, darum wird hier von einem Format von ca. 45 cm x 67 cm ausgegangen. Das ist die Größe von Mini-Flipchart-Blöcken für Tisch-Flipcharts. Kommen solche Flipchart Blöcke zum Einsatz, so könnten die Plakate der vergangenen Woche auch nur umgeblättert werden. So bleiben die Inhalte der vorherigen Wochen stets zugänglich für die Schüler:innen.
+
+![[Pasted image 20240313172001.png]]
+**Abbildung:** Gesammeltes Aufhängen aller Fächerplakate nebeneinander.
+
+Um alle Fächer (hier z.B. der sechsten Jgst. abzüglich des Religions-, Ethik- und Sportunterrichts) nebeneinander unterzubringen würden etwa 5 Meter freie Wand benötigt. Das wird in den meisten Klassenräume schwer umsetzbar sein, daher empfiehlt sich hier eine Aufteilung auf unterschiedliche Wandabschnitte.
+
+# Klassenraumgestaltung: Freier Büchertisch
+Laut der PISA-Studie von 2023 zeigt die Lesekompetenz in Deutschland einen negativen Trend auf. Die einfachste Möglichkeit dem gegen zu steuern ist, die Kinder und Jugendlichen zum Lesen von altersgerechten Büchern zu animieren. 
+Um dies zu unterstützen (und als Bonus-Gestaltungselement im Rahmen dieses Impulses), sollte ein offener Büchertisch oder ein Bücherregal im Klassenzimmer Platz finden, an dem die Lernenden sich mit Lesestoff versorgen können. Diese Bücher sollen kostenlos ausgeliehen werden können. Im besten Fall kommt es zum Schneeball-Effekt, wenn Einzelne ein gutes Buch entdecken, selbst lesen, und anschließend  den Klassenkamerad:innen weiterempfehlen. 

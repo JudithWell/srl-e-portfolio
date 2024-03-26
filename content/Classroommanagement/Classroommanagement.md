@@ -1,0 +1,16 @@
+# Klassenführung - Classroom Management
+>Unter Classroom Management sind alle Aktivitäten zu verstehen, die Lehrkräfte unternehmen, um eine Lernumgebung zu schaffen, die sowohl curriculares, als auch emotionales und soziales Lernen ermöglicht.
+> - Evertson u. Weinstein 2006, S. 47
+
+Die Klassenführung durch die Lehrkraft leistet einen wichtigen Beitrag zum Lernerfolg. Ein für das Lernen angemessene Klassenklima wird durch klare Regeln und Konsequenzen bei Missachtung ebenso charakterisiert, wie auch durch respektvollen Umgang miteinander. Insbesondere sollte das Klassenzimmer auch ein Raum sein, in dem Fehler gemacht werden dürfen, um daraus zu lernen.
+## Regeln und Konsequenzen
+Für ein gelingendes Classroom Management braucht die Klasse klare Regeln. Diese können z. B. am Anfang des Schuljahres aufgestellt, schriftlich festgehalten und sichtbar im Klassenzimmer ausgehangen werden.
+Hierbei sollten die Schülerinnen und Schüler in den Prozess der Aufstellung dieser Regeln mit einbezogen werden. Das fördert nicht nur die generelle Anerkennung der Regeln, sondern verleiht den Lernenden auch Selbstwirksamkeit. Dafür kann eine Placemat-Methode verwendet werden, in der Gruppen von Lernenden zunächst jede für sich Regeln formulieren und sie dann ihre Ergebnisse vergleichen und zusammenführen.
+Das Aufstellen der Regeln fällt in den Zuständigkeitsbereich der Klassenlehrkraft. Teilweise erfordert der Fachunterricht v.a. in den Naturwissenschaften (Chemie-Übung/Informatik usw.) verschärfte Regeln zum Schutz von Instrumenten oder Computern. 
+Aus Sicht der Tiefenpsychologie sollten die Regeln ohne das Wort "nicht" auskommen.
+Sobald Regeln aufgestellt wurden, ist es möglich Regeln zu brechen. Ohne wirksame Konsequenzen kann eine Einhaltung der Regeln auf lange Sicht nicht gewährleistet werden. Konsequenzen sollten unmittelbar auf den Regelverstoß folgen und ausreichend hart sein, um wirksam zu sein. Hier empfiehlt es sich z.B. einen Fundus an "Strafaufgaben" parat zu haben, die bei Fehltritten verteilt werden können.
+## Classroom Management für selbstgesteuertes Lernen
+Klassenführung speziell für das selbstgesteuerte Lernen unterscheidet sich gegenüber Classroom Management in traditionellen Unterrichtsformen. Da der Unterricht nicht mehr von der Lehrkraft ausgehend koordiniert wird, muss anderweitig und individuell festgestellt werden, dass die Lernenden ihre Lernziele erreichen, Wochenplanaufgaben erledigen und sich Thematik in ausreichender Tiefe aneignen. 
+Das Schließen von Lernverträgen ist hier nützlich um ein gewissens "Commitment" und Bewusstsein der Lernenden zu erzeugen.
+## Regeln sind nicht alles
+Besonders Unterrichtsstörungen können nicht mit Regeln allein unterbunden werden. Eine gute Beziehung mit beidseitigem Respekt zwischen Lehrenden und Lernenden ist eine wichtige Basis, um eine Lernumgebung zu schaffen, in der "sowohl curriculares, als auch emotionales und soziales Lernen" möglich ist. Hier gilt: "Beziehung vor Erziehung" und "Bindung vor Bildung". 
