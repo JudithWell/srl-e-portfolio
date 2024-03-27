@@ -11,7 +11,7 @@ Im folgenden werden zwei Reflexionsmethoden vorgestellt, eine digitale und eine 
 ## Digitale Reflexion durch Quiz mit worksheet.digital
 
 <!-- LamaPoll Embed Code for survey: https://survey.lamapoll.de/Reflektionsmethode, ID: 1288790 -->
-<iframe src="https://survey.lamapoll.de/Reflektionsmethode">
+<iframe>
 <script src="https://survey.lamapoll.de/lp/js/lp.ext.js"></script>
 <div id="lp_survey_1288790"></div>
 <script>lp_load_survey('lp_survey_1288790', 'https://survey.lamapoll.de/Reflektionsmethode', 'contain');</script>
