@@ -1,0 +1,11 @@
+# Aspekte der Reformpädagogik
+Reformpädagodische Schularten wie die Montessori- oder Waldorfschulen oder auch das Jenaplan-System denken Schule auf vielen Ebenen neu. Während viele strukturelle Unterschiede nur schwer in Regelschulen umsetzbar sind, können einige Aspekte selbst im Fachunterricht übernommen werden.
+## Aspekte im Hinblick auf Unterricht und Bewertung
+Den reformpädagogischen Systemen ist meist zu eigen, dass sie viel Vertrauen in die Fähigkeiten der Lernenden setzen. So folgt die Montessori-Pädagogik dem Grundsatz "*Hilf mir, es selbst zu tun*". Daraus kann eine Haltung des Lehrens als "**Hilfe zur Selbsthilfe**" abgeleitet werden. So könnte der Unterricht nicht nur als Rahmen zur Vermittlung von Wissen und Kompetenzen gesehen werden, sondern als Gelegenheit den Lernenden die Voraussetzungen zu verleihen, Probleme selbst zu lösen. Diese Denkweise lässt sich gut in die eigene Unterrichtspraxis und -gestaltung einbinden.
+Ebenfalls ist die (selbstgesteuerte) Freiarbeit häufig ein entscheidender Bestandteil, der - wie im Rahmen dieser Arbeit bereits behandelt - einen Platz an Regelschulen verdient hat.
+Methoden der [[Alternative Leistungsmessung|Alternativen Leistungsmessung]] werden an vielen reformpädagogisch arbeitenden Schulen mindestens für die ersten Schuljahre angewandt (z.B. bis zur siebten Klasse in der Montessori Pädagogik). Die reformpädagogischen Strömungen haben dadurch bereits viel Erfahrung mit alternativen Leistungsmessungen und können daher als Inspiration für die eigene Umsetzung dienen.
+## Strukturelle Aspekte
+Wie eingangs erwähnt ist eine strukturelle, schulweite Umsetzung einiger Aspekte als Einzelperson schwierig anzustoßen. Trotzdem sollen hier drei sinnvolle Aspekte erwähnt werden, die in Regelschulen umgesetzt werden sollten:
+- Umfangreiche Versorgung mit Sozialpädagog:innen zur Unterstützung von Lehrenden und Lernenden
+- Ansprechende bauliche Ästhetik (vgl. Waldorf-Schulen und [[content/Churer-Modell/Churer-Modell|Churer-Modell]])
+- (Klassen-)gemeinschaft oder Stammgruppen zum Aufbau eines besseren "Miteinanders". Stammgruppen-Stunden bietet ebenfalls Raum für [[Wochenplan|Wochenplanarbeit]] und organisatorische Aspekte, die an Regelschulen Unterrichtszeit der Klassenleitung in Aspruch nehmen.

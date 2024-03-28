@@ -1,0 +1,17 @@
+# Growth Mindset
+## Die Mindset-Theorie[^SQTE]
+Die Motivationspsychologin Carol Dweck entwickelte die sog. Mindset-Theorie. Sie unterscheidet zwei spezifische Denkweisen die Personen im Bezug auf Intelligenz und andere Persönlichkeitsmerkmale haben können:
+- **Fixed Mindset** (statische Denkweise): Persönlichkeitsmerkmale sind angeboren und unveränderlich.
+- **Growth Mindset** (wachstumsorientierte Denkweise): Persönlichkeitsmerkmale sind in der Tat veränderbar, z.B. durch Anstrengung, Lernen und Training.
+Diese Denkweisen spielen eine Rolle im Erfolg hocheffizienter Schulen.
+## Vermittlung einer wachstumsorientierten Denkweise im Schulunterricht
+Lehrende, die ihren Schüler:innen den Weg zu einer wachstumsorientierten Denkweise eröffnen wollen, müssen bei sich selbst beginnen. Ist die Lehrkraft in der Lage das Growth Mindset selbst zu verkörpern, fungiert sie als Modell bzw. Vorbild für die Lernenden. Dabei können die folgenden Ansätze helfen:
+- *Reflektion über persönliches Wachstum in der Vergangenheit*: Gerade im Vergleich zur Kindheit/Jugend müsste jeder Mensch in der Lage sein, Verhaltensweisen oder Fähigkeiten zu finden, die sich im Laufe seiner Biografie weiterentwickelt haben. Wer ein Musikinstrument spielt oder eine Sportart ausübt erkennt darin die persönliche Entwicklung sehr deutlich.
+- *Reflektion über die Lernprozesse von Schüler:innen*: Wer bereits im Lehrberuf tätig war oder anderweitig unterrichtet hat, verfügt über Erfahrungen, die auf die Veränderlichkeit von Persönlichkeitsmerkmalen ihrer Lernenden hindeuten. Entweder wurden makroskopischen Lernende über viele Jahre hinweg begleitet oder Veränderungen in ihren Fähigkeiten im Laufe eines Schuljahres wurden ersichtlich.
+- *Reflektion über die eigene Denkweise und Re-Framing*: Es kann natürlich nicht darauf verzichtet werden, die eigene Denkweise unter die Lupe zu nehmen. Gedanken wie "Das kann ich nicht!" können zunächst bewusst umformuliert werden zu "Das kann ich **noch** nicht!" (Stichwort: *The power of yet*). Nach dem Motto "Fake it till you make it" kann so aktiv die eigene Denkweise verändert werden.
+Verfügt die Lehrkraft über das Growth Mindset kann sie außerdem in der Kommunikation mit den Lernenden einige Bedingungen schaffen, sodass bei ihnen sich ein Growth Mindset entwickeln kann:
+- *Explizite Behandlung der Funktionsweise des Gehirns*: Schafft eine Grundlage an physiologischem Wissen, welches die Möglichkeit der Weiterentwicklung von Persönlichkeitsmerkmalen plausibel macht.
+- *Individuelle Beurteilung bei informeller Bewertung*: Zwar ist in Regelschulen es fast unmöglich der [[Alternative Leistungsmessung|Leistungsbewertung zu entkommen]], doch ist mindestens in der informellen Kommunikation z.B. durch Lob ein Fokus auf dem Einsatz und der Arbeitshaltung für ein Growth Mindset förderlich. Durch eine individuelle Beurteilung mit Bezug auf die persönliche Entwicklung wird den Lernenden ebenfalls Einblick auf das Wachstum, dass sie bereits durchleben gegeben.
+- *Transformation der Kommunikation*: In der Kommunikation mit den Lernenden und der Kommunikation der Lernenden miteinander können kleine Veränderungen bereits einen großen Effekt auf das Mindset haben: Hier kommt ebenfalls wieder *the power of yet* zum Tragen. 
+
+[^SQTE]: Harnisch, Dominik/Bernhard, Roland (2019): Growth Mindset vs. Fixed Mindset. Wie Denkweisen und Selbstbilder Lernen und persönliche Entwicklung begünstigen oder erschweren. School Quality and Teacher Education Snapshots 1.1.

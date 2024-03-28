@@ -13,5 +13,3 @@ Lerninhalte und Übungsmöglichkeiten können auf digitalem Wege verfügbar gema
 
 
 
-
-Eine Testseite zur Einbindung eines Videos ist [[Reflexion der Wochenplanarbeit|hier]] zu finden.

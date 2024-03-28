@@ -10,7 +10,7 @@ Im Arbeitsbereich sind viele unterschiedliche Sitzordnungen denkbar. Die Verwend
 **Abbildung:** Vier Ideen für Sitzordnungen, die durch die besondere Tischgeometrie unterstützt werden.
 
 Für das eigenständige Arbeiten ohne Ablenkungen, stehen die Konzentrationsarbeitsplätze zur Verfügung. Diese sind Einzelsitzplätze mit Arbeitsfläche und Trennwänden zu den Nachbarn. Die Plätze können mit Optionen für digitales Arbeiten, wie Lademöglichkeiten und evtl. zusätzliche Bildschirme ausgestattet werden. Ein Gehörschutz für eine noch höhere Konzentration kann ebenfalls hier untergebracht werden.
-Durch die Sitzecke, flexible Sitzordnungen und eine freie Wahl des Arbeitsplatzes lehnt sich diese Klassenraumgestaltung an das [[Churer-Modell]] an.
+Durch die Sitzecke, flexible Sitzordnungen und eine freie Wahl des Arbeitsplatzes lehnt sich diese Klassenraumgestaltung an das [[content/Churer-Modell/Churer-Modell|Churer-Modell]] an.
 Das Klassenzimmer unterstützt ebenfalls das Gefühl der Klasse als Gemeinschaft: Pausen können auf der Sitzecke verbracht werden und die Kücheninsel bietet eine Möglichkeit zur Versorgung mit Kaffee, Wasser o.ä. je nach Alter der Lernenden. Eine Mikrowelle erlaubt das aufwärmen von mitgebrachten Mahlzeiten.
 Es werden auch einige Grünpflanzen im Klassenzimmer untergebracht um für Sauerstoff und eine angenehme Atmosphäre zu sorgen. Eine Automatische Bewässerungsanlage könnte im Rahmen eines [[Programmierprojekte|Informatikprojekts]] von den Lernenden gebaut werden. 
 Der Raum soll viel Platz bieten für das Aufhängen von Plakaten und anderen Lernergebnissen. Im Küchenareal wäre Platz für eine [[Klassenraumgestaltungselemente|Übersicht der wöchentlichen Lerninhalte]] der jeweiligen Fächer.
