@@ -4,6 +4,7 @@ Bei der Leistungsmessung kann zwischen zwei Arten unterschieden werden:
 - summative assessment: Maßnahmen zur Leistungsmessung, ohne jegliches Feedback.
 
 Alternative Leistungsmessungen, die dem formative assessment zuzuordnen sind, sollen die Transparenz des Zustandekommens einer Note erhöhen und Information über Stärken und Schwächen der Lernenden liefern.
+
 ## Stellungnahme zu Alternativen Leistungsmessungen
 Negative Auswirkungen von Noten auf die Motivation und die Leistung von Schüler:innen werden durch viele Studien belegt. Auch gerade Einflüsse emotionaler Natur, wie Schulangst und Prüfungsangst sind Nebenprodukt traditioneller Leistungserhebungen. Dadurch wird ein Bedarf an Alternativen zur klassischen Notenvergabe ersichtlich. Wie im Impulsreferat dargestellt, sind die Studienergebnisse zu verbalem Feedback als Notenersatz sehr widersprüchlich. Zwar ist eine differenzierte Rückmeldung zum tatsächlichen Lernstand der Lernenden wünschenswert, doch lassen sich die positiven Einflüsse dieser Leistungsmessung häufig nicht empirisch belegen. Dafür gilt wohl auch die fehlende Kompetenz der Lehrenden als Einflussfaktor.
 
