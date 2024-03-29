@@ -1,8 +1,3 @@
----
-title: Theoretische Grundlagen des  Selbstgesteuerten Lernens
-draft: false
-tags:
----
 # Theoretische Grundlagen des  Selbstgesteuerten Lernens
 Wie beschrieben gibt es viele [[Motivation für SRL|Gute Gründe Für Selbstreguliertes Lernen]] angesichts moderner Herausforderungen, dem rasantem Wandel unserer Lebenswelt und der Notwendigkeit des lebenslangen Lernens.
 Selbstgesteuerte Lernformen helfen dabei die direkte Unterweisung traditionellen Unterrichts abzubauen. Siehe diesen Eintrag zu den [[Alternative Lernarrangements nach Bönsch|alternativen Lernformen nach Bönsch]].
