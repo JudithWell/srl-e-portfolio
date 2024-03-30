@@ -13,5 +13,5 @@ Der Link zur Umfrage ist: https://survey.lamapoll.de/Reflektionsmethode
 Die Umfrage reflektiert die Aktivität "[Gruppenpuzzle Sortierverfahren für die 11. Jgst](https://www.schulportal-thueringen.de/media/detail?tspi=3952)", angelehnt an Unterlagen des Thüringer Schulportals.
 ## Wochenabschluss-Reflektionsblatt
 Außerdem wurde ein Reflektionsblatt erstellt, dass im Klassen- oder Stammgruppenkontext (z.B. Jenaplan) zum Wochenabschluss verwendet werden kann. Hier wird die allgemeine Stimmung, das Gelernte, aber auch die Arbeitsweise, Schwierigkeiten und der Umgang damit reflektiert. Die Auswahlmöglichkeiten stellen dabei auch direkt Handlungsempfehlungen dar, an denen Lernende sich orientieren können.
-![[Reflektion_Wochenabschluss.pdf]]
+![[Reflektion_Wochenabschluss.pdf|1300]]
 
