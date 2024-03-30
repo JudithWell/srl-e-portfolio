@@ -1,6 +1,7 @@
 # Digitale Medien im Unterricht
 Mit den Fortschritten der Digitalisierung erweitert sich auch der Möglichkeitsraum mit welchen Medien Lernprozesse in der Schule umgesetzt werden können. Jede Lernende trägt heutzutage ein Smartphone in der Tasche, viele besitzen ein Tablet, an Schulen gibt es teilweise sogenannte iPad-Klassen, die Stift, Papier und Schulbücher komplett ersetzen wollen.
 Die technischen Möglichkeiten sind mittlerweile vorhanden, doch gilt es noch sinnvolles Unterrichtsmaterial zu erstellen.
+
 ## Beispiele für Plattformen für den digitalen Unterricht
 Im Rahmen des Seminars wurden einige Dienste benannt, die für die erstellung digitalen Lernmaterials sinnvoll sind:
 - [worksheet.digital](https://worksheet.digital/)
