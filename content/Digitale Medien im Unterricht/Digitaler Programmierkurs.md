@@ -10,12 +10,10 @@ Jedoch existieren wenig Möglichkeiten interaktive Programmierelemente in digita
 Für meinen Algorithmik-Unterricht in der 11. Jgst. habe ich einen Kurs zur Verwendung von Listen in Python erstellt. Der Kurs ist [hier](https://tech.io/playgrounds/135793/listen-in-python/mehrere-informationen-speichern) zu finden.
 Der Kurs bietet einen Einstieg ins Thema. Die Motivation erfolgt über das führen einer Einkaufsliste in einem Pythonprogramm.
 In den Lernabschnitten wechseln sich Verständnisfragen, Programmierbeispiele und -aufgaben sowie Kontrollfragen ab.
-![[Pasted image 20240312122824.png]]
-
+![[Pasted image 20240312122824.png]]  
 **Abbildung:** Erklärtexte und Auswahlfragen aus dem tech.io-Kurs.
 
-![[Pasted image 20240312122950.png]]
-
+![[Pasted image 20240312122950.png]]  
 **Abbildung:** Programmieraufgabe mit Feedback zur Lösung.
 Zusätzliche Tipps und Hilfestellungen zu den Aufgaben können ausgeklappt werden.
 

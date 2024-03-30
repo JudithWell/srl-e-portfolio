@@ -3,8 +3,7 @@ Eine grundlegende Struktur traditionellen Unterrichts ist die Vermittlung von ne
 
 Der Flipped Classroom stellt dieses Konzept auf den Kopf: Das Erarbeiten neuer Inhalte erfolgt eigenständig, indem die Lernenden sich mit bereitgestelltem Material auseinandersetzen (üblicherweise einem Lernvideo z.B. eine Aufnahme aus der Vermittlungsphase des "Regular Classroom"). Der Vorteil: Die Übungsphase kann in der Schule abgehalten werden, sodass die Lehrende und Mitschüler:innen für Fragen und Zusammenarbeit zur Verfügung stehen.
 
-![[Flipped Classroom.png]]
-
+![[Flipped Classroom.png]]  
 **Abbildung:** Gegenüberstellung des Flipped Classrooms zum "Regular Classroom".
 
 ## Ein Lernvideo für Flipped Classroom
