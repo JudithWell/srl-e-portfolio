@@ -8,7 +8,7 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "E-Portfolio zum Seminar 'Selbstgesteuertes Lernen fördern'",
+    pageTitle: "E-Portfolio: 'Selbstgesteuertes Lernen fördern'",
     enableSPA: true,
     enablePopovers: true,
     analytics: {
