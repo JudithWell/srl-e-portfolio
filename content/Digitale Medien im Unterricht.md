@@ -3,7 +3,7 @@ Mit den Fortschritten der Digitalisierung erweitert sich auch der Möglichkeitsr
 Die technischen Möglichkeiten sind mittlerweile vorhanden, doch gilt es noch sinnvolles Unterrichtsmaterial zu erstellen.
 
 ## Beispiele für Plattformen für den digitalen Unterricht
-Im Rahmen des Seminars wurden einige Dienste benannt, die für die erstellung digitalen Lernmaterials sinnvoll sind:
+Im Rahmen des Seminars wurden einige Dienste benannt, die für die Erstellung digitalen Lernmaterials sinnvoll sind:
 - [worksheet.digital](https://worksheet.digital/)
 - [Kahoot](https://kahoot.com/)
 - [quizlet](https://quizlet.com)
@@ -12,9 +12,10 @@ Im Rahmen des Seminars wurden einige Dienste benannt, die für die erstellung di
 - Simple Club
 - Anton
 - Good Notes für Heftführung
+
 Darüber hinaus für den Informatikunterricht interessant sind:
 - [Trainingsaufgaben des JWINF](https://jwinf.de/contest/70): Python-Einstiegsprogrammieraufgaben online.
-- [genially](https://genial.ly): Nicht nur für Informatik. Speziell für die 11 Jgst. Codierung und Verschlüsselung: [The Mystery of Cryptocastle](https://view.genial.ly/647f2a04bc62140019e744a0/interactive-content-the-mystery-of-cryptocastle): Online Escape Room zur Codierung und Verschlüsselung von Tobias Fuchs und Dr. Wolfgang Pfeffer.
+- [genially](https://genial.ly): Erstellen von digitalen Lerninhalten, nicht nur für Informatik. Speziell für die 11 Jgst. Codierung und Verschlüsselung: [The Mystery of Cryptocastle](https://view.genial.ly/647f2a04bc62140019e744a0/interactive-content-the-mystery-of-cryptocastle): Online Escape Room zur Codierung und Verschlüsselung von Tobias Fuchs und Dr. Wolfgang Pfeffer.
 - [Tech.io](http://tech.io): Das selbsternannte Wikipedia für technisches Wissen und Programmierfertigkeiten. Mit tech.io können [[Digitaler Programmierkurs|eigene Programmierkurse]] erstellt werden.
 ## Auswirkungen auf die Unterrichtsstruktur
 Die vielfältigen Einsatzmöglichkeiten digitaler Medien eröffnen einige Möglichkeiten die traditionelle Struktur von Unterricht umzukrempeln. Ein besonders prominentes Beispiel dafür ist die Methodik des [[Flipped Classroom]].
