@@ -16,6 +16,6 @@ Im Rahmen des Seminars wurden einige Dienste benannt, die für die Erstellung di
 Darüber hinaus für den Informatikunterricht interessant sind:
 - [Trainingsaufgaben des JWINF](https://jwinf.de/contest/70): Python-Einstiegsprogrammieraufgaben online.
 - [genially](https://genial.ly): Erstellen von digitalen Lerninhalten, nicht nur für Informatik. Speziell für die 11 Jgst. Codierung und Verschlüsselung: [The Mystery of Cryptocastle](https://view.genial.ly/647f2a04bc62140019e744a0/interactive-content-the-mystery-of-cryptocastle): Online Escape Room zur Codierung und Verschlüsselung von Tobias Fuchs und Dr. Wolfgang Pfeffer.
-- [Tech.io](http://tech.io): Das selbsternannte Wikipedia für technisches Wissen und Programmierfertigkeiten. Mit tech.io können [[Digitaler Programmierkurs|eigene Programmierkurse]] erstellt werden.
+- [Tech.io](http://tech.io): Das selbsternannte Wikipedia für technisches Wissen und Programmierfertigkeiten. **Mit tech.io können** [[Digitaler Programmierkurs|eigene Programmierkurse]] **erstellt werden**.
 ## Auswirkungen auf die Unterrichtsstruktur
 Die vielfältigen Einsatzmöglichkeiten digitaler Medien eröffnen einige Möglichkeiten die traditionelle Struktur von Unterricht umzukrempeln. Ein besonders prominentes Beispiel dafür ist die Methodik des [[Flipped Classroom]].
