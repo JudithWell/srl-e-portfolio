@@ -10,4 +10,4 @@ Methoden der [[Alternative Leistungsmessung|Alternativen Leistungsmessung]] werd
 Wie eingangs erwähnt ist eine strukturelle, schulweite Umsetzung einiger Aspekte als Einzelperson schwierig anzustoßen. Trotzdem sollen hier drei sinnvolle Aspekte erwähnt werden, die in Regelschulen umgesetzt werden sollten:
 - Umfangreiche Versorgung mit Sozialpädagog:innen zur Unterstützung von Lehrenden und Lernenden
 - Ansprechende bauliche Ästhetik (vgl. Waldorf-Schulen und [[Churer-Modell|Churer-Modell]])
-- (Klassen-)gemeinschaft oder Stammgruppen zum Aufbau eines besseren "Miteinanders". Stammgruppen-Stunden bietet ebenfalls Raum für [[Wochenplan|Wochenplanarbeit]] und organisatorische Aspekte, die an Regelschulen Unterrichtszeit der Klassenleitung in Aspruch nehmen.
+- (Klassen-)gemeinschaft oder Stammgruppen zum Aufbau eines besseren "Miteinanders". Stammgruppen-Stunden bieten ebenfalls Raum für [[Wochenplan|Wochenplanarbeit]] und organisatorische Aspekte, die an Regelschulen Unterrichtszeit der Klassenleitung in Anspruch nehmen.

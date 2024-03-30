@@ -18,6 +18,7 @@ Gerade an die Reflektions- und Selbsteinschätzungsfähigkeiten werden hohe Ansp
 Daneben müssen lernseitige Strukturen und Bedingungen vorhanden bzw. erfüllt sein, um erfolgreich selbstgesteuert zu lernen. Diese sind:
 
 ![[LernseitigeStrukturenBedingungen.drawio.png]]
+
 **Abbildung:** Lernseitige Strukturen und Bedingungen für Selbstgesteuertes Lernen.
 ## Neue Rolle der Lehrenden
 Die Rolle der Lehrenden ändert sich beim Selbstgesteuerten Lernen grundlegend. Die Lehrkraft ist Moderator:in, ihre Aufgabe ist die Anleitung und Begleitung der Lernenden in ihren Lernprozessen. Traditionelle Elemente der Lehrerrolle, wie die Fachkompetenz, bleiben erhalten.
@@ -29,12 +30,12 @@ Die Rolle der Lehrenden ändert sich beim Selbstgesteuerten Lernen grundlegend. 
  
 Zum Gelingen des Selbstgesteuerten Lernens ist ein hohes Maß an Vorbereitung der Lehrenden sowie eine Förderung der Lernenden notwendig.
 
-Es können zwei Dimensionen der Förderung unterschieden werden:
+Es können zwei Dimensionen der Förderung unterschieden werden: Direkte und indirekte Förderung. 
 ### Direkte Förderung durch Lernstrategietraining
 Beim Lernstrategietraining werden unter Anleitung der Lehrkraft Strategien zum erfolgreichen Lernen angewendet und so trainiert. Auf diese Weise sammeln die Lernenden Erfahrung mit den Strategien und Methoden. Die direkte Förderung erzieht die Schüler:innen in einem sicheren Rahmen zur Eigenständigkeit.
 ### Indirekte Förderung - die Gestaltung von Lernumgebungen
-Daneben hat auch die Gestaltung von Lernumgebungen ein großes Förderungspotential.
-Die Lernenden haben eine aktive und konstruktive Rolle am Wissenserwerb, doch können ihnen nicht alle Entscheidungen überlassen werden. Die Lehrende unterstützt die Lernenden durch ein Bereitstellen von Material wie *Leittexten* oder Hilfe bei der Organisation von Lerngruppen. Zwischen Lehrenden und Lernenden können Lernverträge geschlossen werden, die das Vorgehen regeln.
+Daneben hat auch die Gestaltung von Lernumgebungen ein großes Förderungspotential. Die Lernenden haben eine aktive und konstruktive Rolle am Wissenserwerb, doch können ihnen nicht alle Entscheidungen überlassen werden. Die Lehrende unterstützt die Lernenden durch ein Bereitstellen von Material wie *Leittexten* oder Hilfe bei der Organisation von Lerngruppen. Zwischen Lehrenden und Lernenden können Lernverträge geschlossen werden, die das Vorgehen regeln.
 ### Förderung schwächerer Schüler:innen
-Ein wichtiger Aspekt beim Selbstgesteuerten Lernen ist, schwächere Lernenden ausreichend zu fördern. Gerade schwächeren Schüler:innen fehlen oft Voraussetzungen zur Selbstregulation, haben weniger Vorwissen und sind weniger eigenständig. Daher sollten die Lehrenden besonders darauf achten, diese Lernenden zu fördern. 
+Ein wichtiger Aspekt beim Selbstgesteuerten Lernen ist, schwächere Lernende ausreichend zu fördern. Gerade schwächeren Schüler:innen fehlen oft Voraussetzungen zur Selbstregulation, haben weniger Vorwissen und sind weniger eigenständig. Daher sollten die Lehrenden besonders darauf achten, diese Lernenden zu fördern. 
+
 Auf der anderen Seite haben gerade schwächere Lernende die Möglichkeit, im Selbstgesteuerten Lernen ihr Potential zu entfalten, wenn sie orientiert an ihren Stärken und Interessen lernen können.
